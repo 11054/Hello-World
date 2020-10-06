@@ -1,1 +1,4 @@
-print("Hello world")
+import random
+
+n = random.randint(0, 50)
+print(n)
